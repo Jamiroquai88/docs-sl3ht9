@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-cjtj99.juragan89.online/sitemap.xml
